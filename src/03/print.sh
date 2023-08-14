@@ -1,0 +1,18 @@
+#! /bin/bash
+
+echo -e "${background1}${foreground1}HOSTNAME$end_color = ${background2}${foreground2}$HOSTNAME$end_color"
+echo -e "${background1}${foreground1}TIMEZONE$end_color = ${background2}${foreground2}$TIMEZONE$end_color"
+echo -e "${background1}${foreground1}USER$end_color = ${background2}${foreground2}$USER$end_color"
+echo -e "${background1}${foreground1}OS$end_color = ${background2}${foreground2}$OS$end_color"
+echo -e "${background1}${foreground1}DATE$end_color = ${background2}${foreground2}$DATE$end_color"
+echo -e "${background1}${foreground1}UPTIME$end_color = ${background2}${foreground2}$UPTIME$end_color"
+echo -e "${background1}${foreground1}UPTIME_SEC$end_color = ${background2}${foreground2}$UPTIME_SEC$end_color"
+echo -e "${background1}${foreground1}IP$end_color = ${background2}${foreground2}$IP$end_color"
+echo -e "${background1}${foreground1}MASK$end_color = ${background2}${foreground2}$MASK$end_color"
+echo -e "${background1}${foreground1}GATEWAY$end_color = ${background2}${foreground2}$GATEWAY$end_color"
+echo -e "${background1}${foreground1}RAM_TOTAL$end_color = ${background2}${foreground2}$RAM_TOTAL$end_color"
+echo -e "${background1}${foreground1}RAM_USED$end_color = ${background2}${foreground2}$RAM_USED$end_color"
+echo -e "${background1}${foreground1}RAM_FREE$end_color = ${background2}${foreground2}$RAM_FREE$end_color"
+echo -e "${background1}${foreground1}SPACE_ROOT$end_color = ${background2}${foreground2}$SPACE_ROOT$end_color"
+echo -e "${background1}${foreground1}SPACE_ROOT_USED$end_color = ${background2}${foreground2}$SPACE_ROOT_USED$end_color"
+echo -e "${background1}${foreground1}SPACE_ROOT_FREE$end_color = ${background2}${foreground2}$SPACE_ROOT_FREE$end_color"
